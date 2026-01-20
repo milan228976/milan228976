@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Привет! Меня зовут Зубарев Михаил
 
-<!--
-**milan228976/milan228976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Backend Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Обо мне
+Занимаюсь backend-разработкой на C# и платформе .NET.  
+Интересуюсь созданием Web API, архитектурой приложений и работой с базами данных.  
+Цель — профессиональный рост в сторону Middle / Senior .NET Developer.
+
+
+### 🛠 Технологии и инструменты
+- C#
+- .NET / ASP.NET Core
+- LINQ
+- async / await
+- Основы ООП
+- Entity Framework Core
+- Git
+- PostgreSQL (базовые навыки, в процессе углубления)
+- Linux (базовый уровень)
+
+
+### 📌 Практика и проекты
+- Backend Web API на ASP.NET Core (в разработке)
+- Telegram-бот на C#
+- Интеграция внешних сервисов (поиск Google в 1С)
+
+
+### 🎯 Цели
+- Получить коммерческий опыт в backend-разработке
+- Участвовать в реальных проектах
+- Углубить знания ASP.NET Core и работы с БД
+
+
+### 📫 Контакты
+- Telegram: @milanzer0
