@@ -12,13 +12,13 @@
 ### 🛠 Технологии и инструменты
 - C#
 - .NET / ASP.NET Core
-- LINQ
-- async / await
-- Основы ООП
+- Docker
+- Kafka
+- WebSocket
 - Entity Framework Core
-- Git
-- PostgreSQL (базовые навыки, в процессе углубления)
-- Linux (базовый уровень)
+- Git, GitHub, GitLub
+- PostgreSQL, MySQL (продвинутые навыки, в процессе углубления)
+- Linux (продвинутый уровень)
 
 
 ### 📌 Практика и проекты
