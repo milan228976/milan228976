@@ -22,9 +22,9 @@
 
 
 ### 📌 Практика и проекты
-- Backend Web API на ASP.NET Core (в разработке)
+- SmartTaskManager (High Development Level)
 - Telegram-бот на C#
-- Интеграция внешних сервисов (поиск Google в 1С)
+- OfficeChat (Локальное общение и обмен данными)
 
 
 ### 🎯 Цели
