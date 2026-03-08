@@ -10,8 +10,9 @@
 
 
 ### 🛠 Технологии и инструменты
-- C#
+- C# / C++ / Python
 - .NET / ASP.NET Core
+- QTCreator
 - Docker
 - Kafka
 - WebSocket
